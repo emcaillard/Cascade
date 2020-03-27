@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Cascade</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_score">ScoreActivity</string>
+
+    <!-- Main activity -->
+    <string name="main_beginner_button">beginner</string>
+    <string name="main_easy_button">easy</string>
+    <string name="main_medium_button">medium</string>
+    <string name="main_difficult_button">difficult</string>
+    <string name="main_impossible_button">impossible</string>
+
+    <string name="main_text_5">Grid : 5x5</string>
+    <string name="main_text_6">Grid : 6x6</string>
+    <string name="main_text_7">Grid : 7x7</string>
+    <string name="main_text_8">Grid : 8x8</string>
+    <string name="main_text_9">Grid : 9x9</string>
+
+    <string name="main_loading">Loading</string>
+
+    <!-- Game activity -->
+    <string name="game_return_button">Return menu</string>
+    <string name="game_play_again_button">Play again</string>
+    <string name="game_best_score">Best score : %1$d</string>
+    <string name="game_current_score">Score : %1$d</string>
+
+    <string name="game_end_game">Game ended</string>
+
+    <!-- Score activity-->
+    <string name="score_return_button">Return</string>
+    <string name="score_reinit_button">Reinitialize</string>
+    <string name="score_text_display_difficulty">Best score for %1$s</string>
+
+
+</resources>
